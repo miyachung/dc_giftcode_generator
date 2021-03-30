@@ -1,4 +1,4 @@
-# dc_gc_generator
+# discord-giftcode-generator
 Discord Gift Code Generator
 
 
